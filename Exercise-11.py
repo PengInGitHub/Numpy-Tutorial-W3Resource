@@ -14,3 +14,9 @@ print(range(10))
 
 my_tuple=([1,1,1],[2,3,3])
 print(my_tuple)
+
+#compare list and tuple
+#list and tuple are squential data struecture
+#list uses [] while tuple uses ()
+#tuple could not be modified
+#tuple is more structured
